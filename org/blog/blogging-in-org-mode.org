@@ -1,0 +1,3 @@
+#+title: Building a blog with Org Mode
+#+author: Canaan McKenzie
+
